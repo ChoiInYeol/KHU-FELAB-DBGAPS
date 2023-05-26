@@ -19,3 +19,4 @@ pybind11
 #
 ipykernel
 jinja2
+backtrader
